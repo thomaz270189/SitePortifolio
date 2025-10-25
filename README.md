@@ -1,1 +1,1 @@
-https://thomaz270189.github.io/SitePortifolio-JornadaTD/
+https://thomaz270189.github.io/SitePortifolio
